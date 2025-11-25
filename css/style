@@ -44,7 +44,7 @@ body{
 }
 
 .p1{
-    background-image: url(layang.jpeg);
+    background-image: url(..img/layang.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -164,7 +164,7 @@ img{
     font-size: 20px;
 }
 .main3{
-    background-image: url(pd.jpeg);
+    background-image: url(..img/pd.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
